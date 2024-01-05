@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.maindiv{
+    display: flex;
+    background-image: url("https://cdn.wallpapersafari.com/83/54/b9KGv4.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 100vh;
+    width: 100vw;
+}
+.main2div input{
+    margin-top: 10vh;
+}
+.scroller{
+    max-height:50vh ;
+    overflow-y: auto;
+    margin-top: 20px;
+    width: 60vw;
+}
+.radio h2{
+    color: white;
+}
+.radio form label{
+    color: white;
+}
+.radio form h4{
+    color: white;
+}

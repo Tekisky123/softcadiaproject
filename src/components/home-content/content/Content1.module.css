@@ -1,0 +1,47 @@
+.maindiv{
+    color: black;
+    background:#95afc0;
+    height: 45vh;
+    width: 100%;
+}
+.heading{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-top: 30px;
+    text-align: center;
+    
+}
+.para{
+font-size: 20px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+text-align: center;
+justify-content: center;
+/* line-height: 30px; */
+margin-top: 20px;
+padding-left: 40px;
+padding-right: 40px;
+}
+.line{
+    width: 400px;
+  margin-left: 35rem;
+    height: 2px;
+    background-color: black;
+}
+.btn{
+    background: transparent;
+    width: 150px;
+    height: 5vh;
+    margin-left: 43rem;
+    margin-top: 20px;
+    
+}
+.btndiv :hover{
+    background-color: orange;
+}
+/* @media screen and (min-width:300px) and (max-width:765px) {
+    .maindiv{
+        color: darkred;
+        background:#95afc0;
+        height: 45vh;
+        width: 100%;
+    }
+} */

@@ -1,0 +1,43 @@
+.main{
+    height: 100px;
+    width: 60rem;
+    background-color: #38ada9;
+    margin-left: 20%;
+    margin-top: 3%;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 30px;
+    text-align: center;
+}
+/* .maindiv{
+    align-items: center;
+} */
+.or{
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    color: #38ada9;
+    background-color: white;
+    text-align: center;
+    padding-top: 2px;
+    
+}
+.mail{
+    color: white;
+}
+.mailtext{
+    color: white;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.call{
+    color: white;
+}
+.calltext{
+    color: white;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}

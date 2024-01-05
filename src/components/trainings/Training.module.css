@@ -1,0 +1,40 @@
+.img{
+    background-image: url('/SoftCadia/public/banner2.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 210vh;
+    width: 100%;
+    padding: 40px;
+    background-attachment: fixed;
+}
+/* .bgclr{
+     background:rgba(17, 39, 59, 0.8);
+    height: 113vh;
+    width: 60%;
+    background: rgba(58, 80, 99, 0.6);
+    margin-top: 3rem;
+    margin-left: 15.5rem;
+} */
+.h1{
+    color: whitesmoke;
+    text-align: center;
+    padding: 2rem;
+}
+.hr{
+    color: whitesmoke;
+}
+.l{
+    color: rgba(245, 245, 245, 0.934);
+    margin-left: 10rem;
+    padding: 1rem;
+}
+.i{
+   background: rgba(0, 0, 0,.8);
+   /* margin-left: 4rem; */
+   width: 130%;
+   color: whitesmoke;
+}
+.form{
+    /* margin-left: 40%; */
+    text-align: center;
+}

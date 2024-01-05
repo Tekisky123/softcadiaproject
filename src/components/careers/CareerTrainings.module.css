@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.maindiv{
+    display: flex;
+}
+.scroller{
+    max-height:50vh ;
+    overflow-y: auto;
+    margin-top: 20px;
+    width: 60vw;
+}

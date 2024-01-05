@@ -1,0 +1,52 @@
+.bgcolor{
+    background: linear-gradient(to right, #3b8d99, #6b6b83, #aa4b6b); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    height: 100vh;
+}
+.heading{
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.heading h4{
+    color: white;
+    padding-top: 10vh;
+    font-size: 35px;
+}
+.heading p{
+    font-size: 30px;
+    color: red;
+    font-weight: 600;
+}
+.heading h3{
+    color: whitesmoke;
+}
+.form{
+    position: absolute;
+    left: 40vw;
+    top: 35vh;
+}
+.form input{
+    height: 5vh;
+    width: 20vw;
+    padding: 15px;
+    border-radius: 8px;
+}
+.form Button{
+   font-weight: 600;
+    margin-top: 2vh;
+    font-size: 20px;
+    width: 20vw;
+}
+.form p{
+    color: white;
+    font-size: 20px;
+    font-weight: 600;
+    text-align: center;
+}
+
+.form p a{
+    color: white;
+    text-decoration: none;
+}
+.form p a:hover{
+color: dodgerblue;
+}
