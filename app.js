@@ -1,4 +1,6 @@
-import express from 'express'
+// import express from 'express'
+const express = require('express');
+
 const app = express();
 import dotenv from 'dotenv'
 import dbconnect from './db/connection.js';
