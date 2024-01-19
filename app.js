@@ -9,8 +9,7 @@ import loginRouter from './routes/loginRoute.js';
 import trainingRouter from './routes/trainingRoute.js';
 import jobapplyRouter from './routes/jobapplyRoute.js';
 import trainingapplyRouter from './routes/trainingapplyRoute.js';
-import https from 'https';
-let server = https.createServer(app)
+
 // import userloginRouter from './routes/userlogin.js';
 
 dotenv.config()
@@ -36,6 +35,6 @@ app.use('/softcadia/trainingapply' , trainingapplyRouter)
 // app.use('/softcadia/tainingapply')
 // app.use('/softcadia/user' , userloginRouter)
 
-server.listen(port, () => {
+app.listen(port, () => {
     console.log(`server started at ${port}`)
 })
